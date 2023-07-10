@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img width="500" src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif">
+</p>
 
 <h1 align="center">Hi, I'm Rohini 😊</h1>
 <h3 align="center">I play with data and create smart solutions!</h3>
