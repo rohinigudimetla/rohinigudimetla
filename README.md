@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Rohini 😊</h1>
-<h3 align="center">I play with data And create smart solutions!</h3>
+<h3 align="center">I play with data and create smart solutions!</h3>
 
 - 💬 Ask me about **Python, Machine Learning, Data Science**
 
