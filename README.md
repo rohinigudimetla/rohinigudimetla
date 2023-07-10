@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rohini</h1>
+
+
+<h1 align="center">Hi, I'm Rohini 😊</h1>
 <h3 align="center">I play with data And create smart solutions!</h3>
 
 - 💬 Ask me about **Python, Machine Learning, Data Science**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17CBdGDMLi4o1MZMw54lRsTWruCT4w1MN/view?usp=sharing](https://drive.google.com/file/d/17CBdGDMLi4o1MZMw54lRsTWruCT4w1MN/view?usp=sharing)
+- 📄 Know about my experiences with my <a href="https://drive.google.com/file/d/17CBdGDMLi4o1MZMw54lRsTWruCT4w1MN/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
